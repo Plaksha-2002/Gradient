@@ -1,0 +1,59 @@
+
+body{ text-align: center;
+   font-family: 'Trebuchet MS' ,Sans-serif ;
+   color: #687980;
+   padding: 20px;
+   background-image: url('https://static.vecteezy.com/system/resources/thumbnails/001/409/192/small/abstract-geometric-banner-free-vector.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   letter-spacing: .2em;
+}
+h1{
+ font-size: 50px;
+   margin:0;
+}
+h3{
+   margin: 10px;
+}
+.size{
+font-size: 20px;
+font-family: 'Trebuchet MS' ,Sans-serif ;
+}
+
+#gradient{
+    position:relative;
+    margin-left: 40em;
+   background: linear-gradient(50deg , #8A2BE2, #D8E3E7);
+   width: 250px;
+   height: 300px;
+   border-radius: 25px;
+   margin: 30px 620px 30px;  
+   box-shadow: 2px 31px 35px -15px rgba(0,0,0,0.64);  
+}
+
+#type-grad{
+   margin: 0 20px 10px 20px ;
+   background-color: white;
+   height: 30px;
+  width: 80px;
+  color: #687980;
+   border: #E4D8DC;
+   text-align: center;
+  font-weight: bold;
+}
+
+.code{
+   font-size: 25px;
+
+}
+input{
+  border-radius: 0;
+  margin: 0px 0px;
+  height: 30px;
+  width: 80px;
+   border: none;
+ padding:0;
+ outline: none;
+ -webkit-appearance: none;
+
+}
